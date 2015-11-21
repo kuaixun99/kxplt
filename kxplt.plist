@@ -16,7 +16,7 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>neverSend</string>
+               <string>kuaixun.app.chat</string>
                <key>bundle-version</key>
                <string>1</string>
                <key>kind</key>
